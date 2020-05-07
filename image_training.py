@@ -7,7 +7,7 @@ import imutils
 import cv2
 
 ap = argparse.ArgumentParser()
-ap.add_argument("-i", "--images", help="path to images directory",default = "")
+ap.add_argument("-i", "--images", help="path to images directory",default = "path")
 args = vars(ap.parse_args())
 
 hog = cv2.HOGDescriptor()
