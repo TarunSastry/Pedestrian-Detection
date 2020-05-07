@@ -3,7 +3,7 @@
 # Introduction:
 This Project is created for Pedestrian detetcion in indoor and outdoor environment. It helps in classifying the Pedestrians present in the environment and provides a intelligent video surveilance system that is reliable and accurate.
 
-# Prequisites:
+# Pre requisites:
 Anaconda Navigator\
 Tensor flow\
 Open CV\
